@@ -1,6 +1,6 @@
 # Why Use GameModeBase:
 
-- __Contols Game State:__ Used to implement the rules that govern the overal state of the game.
+- **Contols Game State:** Used to implement the rules that govern the overal state of the game.
 - __Spawn Players:__ To manage spawning of players at the start of the game or after a player's death.
 - __Manage Game Flow:__ To dictate the progression of the game, like starting, pausing, and ending the game.
 
